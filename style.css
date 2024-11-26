@@ -55,7 +55,7 @@ body {
 
 .social {
   background-color: var(--Purple-500);
-  font-size: 8px;
+  /* font-size: 8px; */
   color: white;
   grid-column: span 2;
   width: auto;
